@@ -9,3 +9,16 @@
    files that will be commited next.
    The staging area offers a level of control on what will be commited, allowing to exclude files that the developer doesn't
    want to be commited, or separate the changed files into multiple commits.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+   Branching would be helpful in the case when I need to experiment on a feature, create different versions of my program,
+   create easy-modes, translations, develop features separately without worrying about the different commit history etc.
+
+5. How do the diagrams help you visualize the branch structure?
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
